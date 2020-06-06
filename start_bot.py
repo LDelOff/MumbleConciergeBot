@@ -4,7 +4,7 @@ import pymumble_py3
 import time
 import os
 import shutil
-import configparser  # импортируем библиотеку
+import configparser 
 # импорт колбэков
 from pymumble_py3.callbacks import PYMUMBLE_CLBK_TEXTMESSAGERECEIVED as PCTMR
 from pymumble_py3.callbacks import PYMUMBLE_CLBK_USERUPDATED as PCUU
