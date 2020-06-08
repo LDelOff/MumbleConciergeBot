@@ -10,4 +10,4 @@
 
 Бот написан с использованием библиотеки [Pymumble](https://github.com/azlux/pymumble). Спасибо за это [@Azlux](https://github.com/azlux)
 
-Подробнее [здесь](https://github.com/LDelOff/MumbleConciergeBot/wiki)
+Подробнее [здесь](https://github.com/LDelOff/MumbleConciergeBot/wiki/Вики-по-использованию-MumbleConciergeBot)
